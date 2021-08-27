@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Dado'
-SITENAME = 'marukun'
+AUTHOR = 'dado'
+SITENAME = 'Dado'
 SITEURL = ''
 
 PATH = 'content'
