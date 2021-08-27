@@ -3,7 +3,7 @@
 
 AUTHOR = 'dado'
 SITENAME = 'Dado'
-SITEURL = ''
+SITEURL = 'https://kujiranoai.github.io/pelicantest/'
 
 PATH = 'content'
 
